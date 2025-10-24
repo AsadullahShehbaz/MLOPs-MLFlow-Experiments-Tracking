@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/97eecd00bc6c4dc2aeffb01916b64ce3/artifacts
+end_time: 1761274559204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97eecd00bc6c4dc2aeffb01916b64ce3
+run_name: fearless-wolf-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761274559039
+status: 3
+tags: []
+user_id: HP

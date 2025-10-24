@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/52da1c487fc0421e93800b87fec644af/artifacts
+end_time: 1761277886225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52da1c487fc0421e93800b87fec644af
+run_name: nosy-shrimp-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761277885233
+status: 3
+tags: []
+user_id: HP

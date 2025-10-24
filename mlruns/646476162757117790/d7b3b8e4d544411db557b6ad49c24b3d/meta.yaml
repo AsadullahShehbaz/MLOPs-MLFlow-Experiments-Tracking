@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/646476162757117790/d7b3b8e4d544411db557b6ad49c24b3d/artifacts
+end_time: 1761279406625
+entry_point_name: ''
+experiment_id: '646476162757117790'
+lifecycle_stage: active
+run_id: d7b3b8e4d544411db557b6ad49c24b3d
+run_name: vaunted-ape-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761279388323
+status: 3
+tags: []
+user_id: HP

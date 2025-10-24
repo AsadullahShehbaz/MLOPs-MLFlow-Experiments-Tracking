@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/05b5441d9218454bb93db75985aef927/artifacts
+end_time: 1761275270292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05b5441d9218454bb93db75985aef927
+run_name: luxuriant-donkey-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761275267673
+status: 4
+tags: []
+user_id: HP
